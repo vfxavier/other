@@ -1,2 +1,2 @@
 # other
-Legacy studies, papers and random materials.
+Legacy studies, papers and other random materials.
